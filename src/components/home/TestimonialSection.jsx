@@ -4,10 +4,10 @@ import { Navigation, Autoplay } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
 import testimonial1 from "../../assets/Images/Testimonial/1.jpg";
-import testimonial2 from "../../assets/Images/testimonial/2.jpg";
-import testimonial3 from "../../assets/Images/testimonial/3.jpg";
-import testimonial4 from "../../assets/Images/testimonial/4.jpg";
-import testimonial5 from "../../assets/Images/testimonial/5.jpg";
+import testimonial2 from "../../assets/Images/Testimonial/2.jpg";
+import testimonial3 from "../../assets/Images/Testimonial/3.jpg";
+import testimonial4 from "../../assets/Images/Testimonial/4.jpg";
+import testimonial5 from "../../assets/Images/Testimonial/5.jpg";
 
 const testimonials = [
   {
